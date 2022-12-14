@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-basics/static/css/main.7ee51360.css",
+    "main.js": "/react-basics/static/js/main.223bcb97.js",
+    "static/media/opencv.jpg": "/react-basics/static/media/opencv.40d9765735b15eb16a1f.jpg",
+    "static/media/portfolio.png": "/react-basics/static/media/portfolio.386f3f9d5451ec883f21.png",
+    "static/media/CV.pdf": "/react-basics/static/media/CV.8e7861a0a2aa3180013c.pdf",
+    "static/media/figma.png": "/react-basics/static/media/figma.c9924babf660c29aeeb6.png",
+    "static/media/netlab2.jpg": "/react-basics/static/media/netlab2.f389524d8912f3f9cd47.jpg",
+    "static/media/iaeste.jpg": "/react-basics/static/media/iaeste.8e45d95577f14f14b95a.jpg",
+    "static/media/titanic.jpg": "/react-basics/static/media/titanic.45b5f09597f2db840e1b.jpg",
+    "index.html": "/react-basics/index.html",
+    "main.7ee51360.css.map": "/react-basics/static/css/main.7ee51360.css.map",
+    "main.223bcb97.js.map": "/react-basics/static/js/main.223bcb97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee51360.css",
+    "static/js/main.223bcb97.js"
+  ]
+}

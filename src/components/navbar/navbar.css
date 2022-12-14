@@ -1,0 +1,53 @@
+nav{
+    background:rgba(0,0,0,3);
+    width: max-content;
+    display: block;
+    padding:1rem 2rem 0rem 2rem;
+    z-index: 3;
+    position:fixed;
+    left:50%;
+    transform:translateX(-50%);
+    bottom:1rem;
+    display:flex;
+    gap:1rem;
+    border-radius:3rem;
+    /* backdrop-filter: blur(15px); */
+    
+    /* padding-bottom: */
+}
+
+
+nav a{
+    background:transparent;
+    padding:0.9rem;
+    border-radius:50%;
+    display:flex;
+    color:var(--color-light);
+    font-size:1.5rem;
+}
+
+nav a:hover{
+    background:var(--color-primary);
+    color:var(--color-bg);
+}
+
+nav a.active{
+    background: var(--color-bg);
+    color: var(--color-light);
+}
+
+
+/* ==================MEDIUM DEVICES================== */
+@media screen and (max-width: 1024px){
+    nav a{
+        font-size:1.2rem;
+        font-weight:500;
+    }
+}
+
+/* =====================SMALL DEVICES================== */  
+@media screen and (max-width: 600px){
+    nav{
+        display:none;
+    }
+}
